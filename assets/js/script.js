@@ -39,6 +39,7 @@ function writeTimeZone() {
 function displayTime() {
     var rightNow = moment().format('dddd, MMMM Do');
     timeDisplayEl.text(rightNow);
+    writeTimeZone();
 }
 
 
