@@ -13,6 +13,7 @@ var currentHour = moment().format("H"); // current hour.
 // functions
 // write time zones layout.
 function writeTimeZone() {
+    timeBlocksEl.innerHTML = "";
     for (var i = 0; i < timeZone.length; i++) {
         var divEl = $('<div>');
         divEl.addClass('row time-block');
