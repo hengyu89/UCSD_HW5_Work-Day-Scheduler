@@ -25,6 +25,14 @@ SO THAT I can manage my time effectively
 
 * Once you save your plans, whenever you refresh the webpage, the saved plans will always be shown there. (Not available for different devices.)
 
+## Operation
+
+1. Write done your plan in different time blocks.
+
+2. Click the blue buttons (any one of them).
+
+3. Refresh the page, you'll see the plans will still stay there.
+
 ## Screenshot with one demo
 
 ![This is the demo of webpage when I click the calendar application at 13:00.](./assets/images/demo1.png)

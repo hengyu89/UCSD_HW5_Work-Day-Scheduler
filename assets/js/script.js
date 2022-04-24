@@ -7,8 +7,8 @@ var taskInput = $('.input');                // text area of time zones.
 
 var timeZone = ['9AM', '10AM', '11AM', '12PM', '1PM', '2PM', '3PM', '4PM', '5PM']; // 9 time zones
 var taskList = ['','','','','','','','',''];
-// var currentHour = moment().format("H"); // current hour.
-var currentHour = 13; // for test, 1 pm.
+var currentHour = moment().format("H"); // current hour.
+// var currentHour = 13; // for test, 1 pm.
 
 // functions
 // write time zones layout.
